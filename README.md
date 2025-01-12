@@ -27,7 +27,7 @@ Mô hình **RAG (Retrieval-Augmented Generation)** kết hợp hai thành phần
 
 Dưới đây là sơ đồ minh họa quy trình hoạt động của hệ thống RAG:
 
-![RAG Workflow](A_clear_and_professional_diagram_illustrating_the_.png)
+![RAG Workflow](rag.webp)
 
 1. **Người dùng nhập truy vấn:** Hệ thống nhận đầu vào là câu hỏi từ người dùng.  
 2. **Truy xuất tài liệu:** Sử dụng Annoy Index để tìm các tài liệu pháp lý liên quan dựa trên vector nhúng.  
